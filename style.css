@@ -1,0 +1,32 @@
+h1 {
+    letter-spacing: 10px;
+    font-family: 'Qahiri', sans-serif;
+    font-size: 50px;
+}
+
+div {
+    width: 550px;
+    height: 425px;
+    border: darkblue solid 2px;
+    padding: 25px;
+    background-color: lightgoldenrodyellow;
+    background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="36" height="72" viewBox="0 0 36 72"%3E%3Cg fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+
+h2 {
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+button {
+    font-size: 30px;
+    border: 3px hotpink solid;
+    background-color: palegoldenrod;
+    color: hotpink;
+    transition-duration: 0.5s;
+}
+
+button:hover {
+    border-color: palegoldenrod;
+    background-color: hotpink;
+    color: palegoldenrod;
+}
